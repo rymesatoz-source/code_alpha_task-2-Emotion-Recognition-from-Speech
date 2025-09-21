@@ -43,3 +43,7 @@ The goal of this project is to recognize human emotions (e.g., happy, sad, angry
    ```bash
    git clone https://github.com/<your-username>/CodeAlpha-Task2-Speech-Emotion-Recognition.git
 
+📌 Internship Note
+
+This project is completed as part of Code Alpha Internship – Task 2.
+It demonstrates the use of Deep Learning (LSTM) for Speech Emotion Recognition.
